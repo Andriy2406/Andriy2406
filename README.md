@@ -10,7 +10,7 @@
 
 
 
-<div aling="center">
+
 
   ## Jhostin Andriy Guzman Rojas
 
@@ -42,4 +42,4 @@
 - **El trabajo en equipo es una de mis mayores fortalezas**
 - **Siempre me gusta mantener la calma para encontrar alguna solucion frente al problema**
 
-</div>
+
