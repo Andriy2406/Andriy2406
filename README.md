@@ -1,5 +1,3 @@
-# Hoja de Vida
-
 ## Jhostin Andriy Guzman Rojas
 
 **Profesión:** _Analista y Desarrollador de Software_
