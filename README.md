@@ -1,28 +1,35 @@
 <!--Imagen de arriba-->
-<div style="display: flex !important; justify-content: center !important; align-items: center; width: 100%;">
-  <img src="Imagenes/Cyberpunk.gif" style="margin: 0 auto !important;">
-</div>
+<div align="center">
+  <img src="Imagenes/Cyberpunk.gif" width="500">
+</div><br>
 
 
 
+<!--Portada-->
 <h1 align="center">  Hi <img height="40" src="Imagenes/Saludo.gif">, I'm Jhostin Andriy Guzman Rojas <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<p align="center">
+  <h3 aling ="center">
+    Sobre mi <br> <br>
+    Soy estudiante en Analisis y Desarrollo de software (SENA)
+   
+    
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="Imagenes/penguin.gif">
+  </h3>
   
-</a>
-
-![Mi demo](Imagenes/Kakashi_Obito.gif)
+</p>
 
 
 
 
 
-  ## 
 
-**Profesión:** _Analista y Desarrollador de Software_
+
+
+ 
+
+
 
 ## 📞 Contacto
 - **Email:** [jhostinguzman2006@gmail.com](mailto:jhostinguzman2006@gmail.com)
@@ -50,3 +57,4 @@
 - **El trabajo en equipo es una de mis mayores fortalezas**
 - **Siempre me gusta mantener la calma para encontrar alguna solucion frente al problema**
 
+![Mi demo](Imagenes/Kakashi_Obito.gif)
