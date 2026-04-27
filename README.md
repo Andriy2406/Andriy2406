@@ -1,4 +1,4 @@
-![Mi demo](Imagenes/Kakasho_Obito.gif)
+![Mi demo](Imagenes/Kakashi_Obito.gif)
 
 ## Jhostin Andriy Guzman Rojas
 
