@@ -4,7 +4,8 @@
 </a>
 
 <div align="left">
-![Mi demo](Imagenes/Kakashi_Obito.gif)
+
+  ![Mi demo](Imagenes/Kakashi_Obito.gif)
 
 
 ## Jhostin Andriy Guzman Rojas
