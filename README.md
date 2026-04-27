@@ -1,3 +1,14 @@
+<!--Imagen de arriba-->
+<div style="display: flex !important; justify-content: center !important; align-items: center; width: 100%;">
+  <img src="Imagenes/Cyberpunk.gif" style="margin: 0 auto !important;">
+</div>
+
+
+
+<h1 align="center">  Hi <img height="40" src="Imagenes/Saludo.gif">, I'm Jhostin Andriy Guzman Rojas <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+
+
+
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
   
@@ -9,7 +20,7 @@
 
 
 
-  ## Jhostin Andriy Guzman Rojas
+  ## 
 
 **Profesión:** _Analista y Desarrollador de Software_
 
