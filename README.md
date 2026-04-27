@@ -10,7 +10,7 @@
 
 
 
-<a target="_center" aling ="cener" top ="600"> 
+<a target="_center" aling ="cener" top ="200"> 
 
   ## Jhostin Andriy Guzman Rojas
 
