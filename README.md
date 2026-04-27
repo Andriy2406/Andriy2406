@@ -10,7 +10,8 @@
 </div>
 
 <div aling="center">
-## Jhostin Andriy Guzman Rojas
+
+  ## Jhostin Andriy Guzman Rojas
 
 **Profesión:** _Analista y Desarrollador de Software_
 
@@ -39,4 +40,5 @@
 - **Siempre me gusta ver el futuro para tener una visión clara par desarrollar soluciones inclusivas y funcionales**
 - **El trabajo en equipo es una de mis mayores fortalezas**
 - **Siempre me gusta mantener la calma para encontrar alguna solucion frente al problema**
+
 </div>
