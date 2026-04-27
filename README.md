@@ -6,11 +6,11 @@
 <a target="_blank2" align="center">
   <img align="left" top="500" height="300" width="400" alt="GIF" src=Imagenes/Kakashi_Obito.gif>
   
-</a><br><br>
+</a>
 
 
 
-<a target="_center" aling ="cener"> 
+<a target="_center" aling ="cener" top ="600"> 
 
   ## Jhostin Andriy Guzman Rojas
 
