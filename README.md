@@ -3,10 +3,7 @@
   
 </a>
 
-<a target="_blank2" align="center">
-  <img align="left" top="500" height="300" width="400" alt="GIF" src=Imagenes/Kakashi_Obito.gif>
-  
-</a>
+![Mi demo](Imagenes/Kakashi_Obito.gif)
 
 
 
