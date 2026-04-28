@@ -6,55 +6,35 @@
 
 
 <!--Portada-->
-<h1 align="center">  Hi <img height="40" src="Imagenes/">, I'm Jhostin Andriy Guzman Rojas <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">  Hi <img height="40" src="Imagenes/Saludo.gif">, I'm Jhostin Andriy Guzman Rojas <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
+<!--Contacto-->
+<h1 align="center">📞Contacto</h1>
 
 <p align="center">
-  <h3 aling ="center">
-    Sobre mi <br> <br>
-    Soy estudiante en Analisis y Desarrollo de software (SENA)
-   
-    
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="Imagenes/penguin.gif">
-  </h3>
+<a href="https://www.instagram.com/andriy_jg/" target="blank"><img align="center"
+src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+alt="azzar" height="30"/></a> 
+<a href="https://www.tiktok.com/@aaanndriyy" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
+<a href="https://www.linkedin.com/in/jhostin-andriy-guzman-rojas-01ab5237b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href="https://www.facebook.com/andriy.guzman/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
+<a href = "mailto:jhostinguzman2006@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  </p>
+<br>
+
+<!--Sobre mi-->
+<h1 align ="center"> <img height="40" src="Imagenes/mario.gif">  Sobre mi :bowtie: </h1>
+
+<h3 align ="left">
+Soy estudiante en Analisis y Desarrollo de software (SENA) con formación técnica en Recursos Humanos (2023) y bachiller académico (2023). Me considero una persona: Responsable, organizada y con disposición para el aprendizaje continuo. Cuento con habilidades para el trabajo en equipo, el manejo adecuado de la información y la adaptación a entornos académicos y laborales. Interesado en fortalecer competencias tecnológicas, aportando soluciones eficientes y éticas en el desarrollo de proyectos. 
+</h3><br>
   
-</p>
-
-
-
-
-
-
-
-
  
-
-
-
-## 📞 Contacto
-- **Email:** [jhostinguzman2006@gmail.com](mailto:jhostinguzman2006@gmail.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
-
-## 🏢 Experiencia Laboral
-### **SENA** _(2025 - Actualidad)_
-- Python.
-- Java Script.
-- Typescript
-
-
-## 🎓 Educación
-### **SENA** _(2025 - Actualidad)_
-- Aprendiz de Analisis y Desarrollo de Software.
-### **Bachiller** (Rafael Uribe Uribe 2023)
--Bachiller. 
-
--Tecnico en Recursos Humanos.
+<!--Lenguajes conocidos--> 
+<h1 align="center">Lenguajes conocidos :trollface: </h1>
+<img align="right" top="600" alt="Icons" src="https://skillicons.dev/icons?i=js,html,css,python,mysql">
+<img align="center" top="500" height="300" width="350" alt="GIF" src="Imagenes/penguin.gif">
   
-## 💡 Habilidades
-- **Soy una persona motivado**
-- **Me gusta usar mucho mi creatividad para un mejor aporte**
-- **Siempre me gusta ver el futuro para tener una visión clara par desarrollar soluciones inclusivas y funcionales**
-- **El trabajo en equipo es una de mis mayores fortalezas**
-- **Siempre me gusta mantener la calma para encontrar alguna solucion frente al problema**
+
 
 ![Mi demo](Imagenes/Kakashi_Obito.gif)
