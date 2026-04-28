@@ -6,7 +6,7 @@
 
 
 <!--Portada-->
-<h1 align="center">  Hi <img height="40" src="Imagenes/Saludo.gif">, I'm Jhostin Andriy Guzman Rojas <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">  Hi <img height="40" src="Imagenes/Saludo.gif">, I'm Jhostin Andriy Guzman Rojas <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1><br>
 
 <!--Contacto-->
 <h1 align="center">📞Contacto</h1>
