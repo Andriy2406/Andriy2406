@@ -32,7 +32,7 @@ Soy estudiante en Analisis y Desarrollo de software (SENA) con formación técni
  
 <!--Lenguajes conocidos--> 
 <h1 align="center">Lenguajes conocidos :trollface: </h1>
-<img align="right" top="600" alt="Icons" src="https://skillicons.dev/icons?i=js,html,css,python,mysql">
+<img align="right" top="600" alt="Icons" src="https://skillicons.dev/icons?i=js,html,css,python,mysql,github">
 <img align="center" top="500" height="300" width="350" alt="GIF" src="Imagenes/penguin.gif"><br>
 
 <!--Estadisticas-->
