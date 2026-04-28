@@ -31,10 +31,27 @@ Soy estudiante en Analisis y Desarrollo de software (SENA) con formación técni
   
  
 <!--Lenguajes conocidos--> 
-<h1 align="center">Lenguajes conocidos :trollface: </h1>
-<img align="right" top="600" alt="Icons" src="https://skillicons.dev/icons?i=js,html,css,python,mysql">
-<img align="center" top="500" height="300" width="350" alt="GIF" src="Imagenes/penguin.gif">
+<h1 align ="center">📊Estadisticas</h1>
+<p align="center">
   
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="60%" align="center">
 
+  <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=Andriy2406&theme=dark&hide_border=FALSO&short_numbers=FALSO" /> 
+</td>
 
-![Mi demo](Imagenes/Kakashi_Obito.gif)
+<td width="40%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Andriy2406&unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+  </td>
+</tr>
+</table>
+<br>
+
+<div align="center">
+  <img src="Imagenes/Kakashi_Obito.gif" width="500">
+</div>
+
