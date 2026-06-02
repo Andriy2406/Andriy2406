@@ -42,7 +42,7 @@ Soy estudiante en Analisis y Desarrollo de software (SENA) con formación técni
   <!--- stats (start) -->
 <table align="left">
 <tr border="none">
-<td width="60%" align="center">
+<td width="100%" align="center">
 
   <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=Andriy2406&theme=dark&hide_border=FALSO&short_numbers=FALSO" /> 
 </td>
