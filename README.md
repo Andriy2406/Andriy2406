@@ -40,18 +40,14 @@ Soy estudiante en Analisis y Desarrollo de software (SENA) con formación técni
 <p align="center">
   
   <!--- stats (start) -->
-<table align="left">
+<table align="center">
 <tr border="none">
-<td width="60%" align="center">
-
-  <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=Andriy2406&theme=dark&hide_border=FALSO&short_numbers=FALSO" /> 
-</td>
-
-<td width="100%" align="center">
+  <td width="100%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Andriy2406&unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
   </td>
+
 </tr>
 </table>
 <br>
@@ -59,4 +55,14 @@ Soy estudiante en Analisis y Desarrollo de software (SENA) con formación técni
 <div align="center">
   <img src="Imagenes/Kakashi_Obito.gif" width="500">
 </div>
+<!--  
+<td width="60%" align="center">
+<
+  <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=Andriy2406&theme=dark&hide_border=FALSO&short_numbers=FALSO" /> 
+</td>
+
+
+
+
+
 
